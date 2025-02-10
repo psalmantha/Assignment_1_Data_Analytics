@@ -1,10 +1,10 @@
-treated_unit_id,control_unit_id
+treated_id,control_id
 1,5
 2,6
-3,8
+3,7
 4,16
 10,11
 12,15
-14,9
-17,7
+14,13
+17,20
 19,18
